@@ -1,0 +1,31 @@
+.seção2 {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    column-gap: 3rem;
+    padding: 0 8rem 6rem 8rem;
+}
+
+.bloco-métricas {
+    display: flex;
+    flex-direction: column;
+}
+
+.seção2__titulo {
+    font-size: 3.75rem;
+    font-weight: 600;
+    color: var(--cor-botão);
+    padding-bottom: 0.75rem;
+}
+
+.bloco-métricas__destaque {
+    font-size: 1.12rem;
+    font-weight: 500;
+    color: var(--cor-subtitulo);
+}
+
+.seção2__texto {
+    font-size: 1rem;
+    font-weight: 400;
+    padding-top: 0.7rem;
+    color: var(--cor-fonte-principal);
+}

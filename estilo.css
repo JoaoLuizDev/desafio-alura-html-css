@@ -1,0 +1,26 @@
+@import url('css/header.css');
+@import url('css/seção1.css');
+@import url('css/seção2.css');
+@import url('css/seção3.css');
+
+:root {
+    --cor-fonte-principal: #667085;
+    --cor-botão: #8E2424;
+    --cor-fonte-botão: #FFFFFF;
+    --cor-subtitulo: #101828;
+
+    --cor-fundo-vagas: rgba(142, 36, 36, 0.05);
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Inter', sans-serif;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+}
+

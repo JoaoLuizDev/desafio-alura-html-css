@@ -1,0 +1,35 @@
+.seção3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 6rem 8rem 4rem;
+}
+
+.seção3__subtitulo {
+    font-size: 0.875rem;
+    font-weight: 500;
+    color: var(--cor-botão);
+    background-color: var(--cor-fundo-vagas);
+    padding: 0.250rem 0.750rem;
+    border-radius: 1rem;
+}
+
+.seção3__titulo {
+    font-size: 2.25rem;
+    font-weight: 600;
+    color: var(--cor-subtitulo);
+    padding: 1rem 0 1.25rem 0;
+}
+
+.seção3__texto {
+    font-size: 1.25rem;
+    font-weight: 400;
+    color: var(--cor-fonte-principal);
+    padding-bottom: 4rem;
+}
+
+.seção3 img {
+    width: 80vw;
+    min-width: 50vw;
+    padding-bottom: 4rem;
+}

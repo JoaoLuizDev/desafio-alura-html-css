@@ -1,0 +1,30 @@
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1rem 3rem;
+}
+
+.links a {
+    color: var(--cor-fonte-principal);
+    text-decoration: none;
+    margin-right: 2rem;
+    font-weight: 500;
+    font-size: 1rem;
+}
+
+button {
+    padding: 0.7rem 1rem;
+    cursor: pointer;
+    border: none;
+    border-radius: 0.5rem;
+    font-weight: 500;
+    background: none;
+    font-size: 1rem;
+    color: var(--cor-fonte-principal);
+}
+
+.cadastrar {
+    background-color: var(--cor-botão);
+    color: var(--cor-fonte-botão);
+}
