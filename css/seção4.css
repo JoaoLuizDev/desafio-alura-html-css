@@ -1,0 +1,42 @@
+.seção4 {
+    display: flex;
+    flex-direction: column;
+    padding: 0 21rem 7rem 21rem;
+}
+
+.seção4__titulo {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: var(--cor-subtitulo);
+    padding-bottom: 2rem;
+}
+
+.seção4__bloco {
+    border: 1px solid #E5E5E5;
+    padding: 1.5rem 1.5rem 1.75rem;
+    border-radius: 1rem;
+    margin-bottom: 1.5rem;
+}
+
+.seção4__bloco__vaga {
+    font-size: 1.125rem;
+    font-weight: 500;
+}
+
+.seção4__bloco__info {
+    padding: 2rem 0 0 0;
+}
+
+.seção4__bloco__info span {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--cor-fonte-principal);
+}
+
+.seção4__bloco__info__periodo {
+    padding-right: 1.5rem;
+}
+
+.segunda-area {
+    margin-top: 2.5rem;
+}

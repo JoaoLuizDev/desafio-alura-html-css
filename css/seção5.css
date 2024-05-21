@@ -1,0 +1,32 @@
+.seção5 {
+    margin: 0 9rem 6rem;
+    background-color: var(--cor-fundo-depoimento);
+    text-align: center;
+    padding: 4rem;
+}
+
+.seção5__titulo {
+    font-size: 0.875rem;
+    font-weight: 600;
+    color: var(--cor-botão);
+    padding-bottom: 1rem;
+}
+
+.seção5__depoimento {
+    font-size: 2.25rem;
+    font-weight: 500;
+    padding: 0 4rem 2rem;
+}
+
+.seção5 img {
+    padding-bottom: 1rem;
+}
+
+.seção5__perfil {
+    display: flex;
+    flex-direction: column;
+}
+
+.seção5__perfil__nome {
+    padding-bottom: 0.25rem;
+}

@@ -2,6 +2,9 @@
 @import url('css/seção1.css');
 @import url('css/seção2.css');
 @import url('css/seção3.css');
+@import url('css/seção4.css');
+@import url('css/seção5.css');
+
 
 :root {
     --cor-fonte-principal: #667085;
@@ -10,6 +13,7 @@
     --cor-subtitulo: #101828;
 
     --cor-fundo-vagas: rgba(142, 36, 36, 0.05);
+    --cor-fundo-depoimento: rgba(195, 25, 25, 0.03);
 }
 
 * {
