@@ -3,6 +3,7 @@
     background-color: var(--cor-fundo-depoimento);
     text-align: center;
     padding: 4rem;
+    border-radius: 1rem;
 }
 
 .seção5__titulo {

@@ -4,6 +4,7 @@
 @import url('css/seção3.css');
 @import url('css/seção4.css');
 @import url('css/seção5.css');
+@import url('css/footer.css');
 
 
 :root {
@@ -11,9 +12,13 @@
     --cor-botão: #8E2424;
     --cor-fonte-botão: #FFFFFF;
     --cor-subtitulo: #101828;
+    --cor-rodape: #98A2B3;
 
+    --cor-fundo-rodape: #F9FAFB;
     --cor-fundo-vagas: rgba(142, 36, 36, 0.05);
     --cor-fundo-depoimento: rgba(195, 25, 25, 0.03);
+
+    --cor-borda: #D0D5DD
 }
 
 * {
