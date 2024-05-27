@@ -9,3 +9,7 @@ Criando uma página completa de 'Vagas' de uma empresa fictícia.
 
 ## Layout
 Link no Figma: https://encurtador.com.br/eGQPd
+
+## Deploy
+Link: https://desafio-alura-html-css.vercel.app/
+Link: https://joaoluizdev.github.io/desafio-alura-html-css/
