@@ -11,5 +11,12 @@ Criando uma página completa de 'Vagas' de uma empresa fictícia.
 Link no Figma: https://encurtador.com.br/eGQPd
 
 ## Deploy
-Link: https://desafio-alura-html-css.vercel.app/
-Link: https://joaoluizdev.github.io/desafio-alura-html-css/
+Link: https://desafio-alura-html-css.vercel.app/  
+Link: https://joaoluizdev.github.io/desafio-alura-html-css/  
+
+## Resultado
+<p align="center">
+  <img src="https://raw.githubusercontent.com/JoaoLuizDev/desafio-alura-html-css/main/assets/print-tela.png" alt="Resultado" style="width: 50%; max-width: 300px;"/>
+</p>
+
+
